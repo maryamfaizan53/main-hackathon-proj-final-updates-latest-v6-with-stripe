@@ -4,10 +4,10 @@ import { createClient } from "next-sanity";
 
 
 export const sanityClient = createClient({
-  projectId: "ckmfdvkv",
+  projectId: "dys4b966",
   dataset: "production",
   apiVersion: "2023-10-01",
-  token: "sk3kNiqgZiEq24BWQ85qPy9K5xNrJgxCAtMQ9Jzzf3QN6wOUx41OCQ9N6zK0J6XdLLNa4f8K3CwRlXfPzsrPey93wZTNben2JEStBSYKVdqSK4FPPjtClEvpVrdwmXEdiXGYesE9CzOOgiLjzYOtGCjpHVwJY2XYqLENytJavXbwT9mKxrCc",
+  token: "skkcO1pMdJm00m3paMeJromGlkyY7roV5Nsz4Tak4pJ31hY54VZZsfvQB2RF9vw50cPp8EvnqE79otpTgRekHch6JkyDTd90VbH0GCUKRzaYJkX076AKbmld5aOCiLkRZOr9ItXddlCZDUzFKxkkvlFnfvQmCEZXJBGAUtHlMKoM6Cga6Cg0",
   useCdn: false,           
 });
 
